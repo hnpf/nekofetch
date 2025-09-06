@@ -27,7 +27,7 @@ source venv/bin/activate.fish  # if using fish shell
 source venv/bin/activate        # bash/zsh
 pip install -r requirements.txt
 python fetch_gui.py```
-
+---
 ## Usage
 - Run python nekofetch.py to launch the GUI
 
