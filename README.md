@@ -39,8 +39,8 @@ python fetch_gui.py
 - Export PNG to save a snapshot of your setup
 
 - Toggle between Dark/Light themes
-
+---
 ## License
 - MIT License - Feel free to fork, modify, and share!
-
+---
 ## nekofetch - system stats for humans and cats alike! :3
