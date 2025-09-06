@@ -26,7 +26,10 @@ source venv/bin/activate.fish  # if using fish shell
 # or
 source venv/bin/activate        # bash/zsh
 pip install -r requirements.txt
-python fetch_gui.py
+python nekofetch.py
+For CLI:
+chmod +x nekofetchcli.sh
+./nekofetchcli.sh
 ```
 ---
 ## Usage
